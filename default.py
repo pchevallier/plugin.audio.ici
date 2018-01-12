@@ -27,6 +27,7 @@ def parse_page(page):
     streams = {}
     # hard coded for now
     streams['ICI Musique - Montreal'] = "http://7qmtl0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0"
+    streams['ICI Musique - Vancouver'] = "http://7bvan0.akacast.akamaistream.net/7/286/177417/v1/rc.akacast.akamaistream.net/7BVAN0"
     return streams
     
 def build_stream_list(streams):

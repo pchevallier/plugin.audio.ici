@@ -1,0 +1,5 @@
+Version 1.0.1
+  -added Vancouver stream
+
+Version 1.0.0
+  -Initial Version with Montreal stream
